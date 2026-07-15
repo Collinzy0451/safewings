@@ -14,7 +14,7 @@ const About: React.FC = () => {
   const milestones = [
     {
       year: "2018",
-      event: "Safewing Logistics Founded",
+      event: "Safewing Consignments Founded",
       description:
         "Launched with a mission to modernize logistics and courier operations.",
     },
@@ -118,7 +118,7 @@ const About: React.FC = () => {
             <h1 className="text-5xl md:text-7xl font-black leading-tight mb-8">
               About
               <span className="block text-transparent bg-clip-text bg-gradient-to-r from-cyan-400 to-blue-500">
-                Safewing Logistics
+                Safewing Consignments
               </span>
             </h1>
 
@@ -197,7 +197,7 @@ const About: React.FC = () => {
 
             <p className="text-lg text-slate-600 max-w-3xl mx-auto">
               From startup operations to international delivery networks,
-              Safewing Logistics continues to evolve through innovation and customer trust.
+              Safewing Consignments continues to evolve through innovation and customer trust.
             </p>
           </div>
 
@@ -290,7 +290,7 @@ const About: React.FC = () => {
             </div>
 
             <h2 className="text-4xl md:text-5xl font-black mb-6">
-              Meet The Experts Behind Safewing Logistics
+              Meet The Experts Behind Safewing Consignments
             </h2>
 
             <p className="text-xl text-slate-400 max-w-3xl mx-auto">
@@ -341,7 +341,7 @@ const About: React.FC = () => {
           </div>
 
           <h2 className="text-4xl md:text-5xl font-black mb-6">
-            Ship Smarter with Safewing Logistics
+            Ship Smarter with Safewing Consignments
           </h2>
 
           <p className="text-xl text-cyan-100 max-w-3xl mx-auto mb-10 leading-relaxed">

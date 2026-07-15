@@ -59,7 +59,7 @@ const Home: React.FC = () => {
       name: "Sarah Johnson",
       company: "E-commerce Store Owner",
       rating: 5,
-      text: "Safewing Logistics transformed our fulfillment process. Fast response times and professional handling every time.",
+      text: "Safewing Consignments transformed our fulfillment process. Fast response times and professional handling every time.",
     },
     {
       name: "Mike Chen",
@@ -198,7 +198,7 @@ const Home: React.FC = () => {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-16">
             <div className="inline-flex items-center px-4 py-2 rounded-full bg-cyan-100 text-cyan-700 font-medium mb-4">
-              Why Businesses Choose Safewing Logistics
+              Why Businesses Choose Safewing Consignments
             </div>
 
             <h2 className="text-4xl md:text-5xl font-black text-slate-900 mb-6">
@@ -249,7 +249,7 @@ const Home: React.FC = () => {
 
               <p className="text-lg text-slate-600 mb-8 leading-relaxed">
                 Whether you're managing business deliveries or sending personal
-                packages, Safewing Logistics provides dependable courier services designed
+                packages, Safewing Consignments provides dependable courier services designed
                 for flexibility, speed, and transparency.
               </p>
 
@@ -353,7 +353,7 @@ const Home: React.FC = () => {
             </h2>
 
             <p className="text-xl text-slate-400 max-w-2xl mx-auto">
-              Businesses and individuals rely on Safewing Logistics for efficient and
+              Businesses and individuals rely on Safewing Consignments for efficient and
               dependable shipping services.
             </p>
           </div>
@@ -400,7 +400,7 @@ const Home: React.FC = () => {
           </h2>
 
           <p className="text-xl text-cyan-100 mb-10 max-w-2xl mx-auto">
-            Join thousands of businesses and individuals using Safewing Logistics for
+            Join thousands of businesses and individuals using Safewing Consignments for
             reliable local and international deliveries.
           </p>
 

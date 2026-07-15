@@ -21,7 +21,7 @@ const Footer: React.FC = () => {
             <div className="flex items-center">
               <span className="font-bold text-xl">
                 <span className="font-bold text-xl text-white-900">SAFEWING</span>
-                <span className="font-bold text-xl text-red-500">LOGISTICS</span>
+                <span className="font-bold text-xl text-red-500">CONSIGNMENTS</span>
               </span>
             </div>
             <p className="text-gray-400 text-sm">
@@ -117,7 +117,7 @@ const Footer: React.FC = () => {
               <div className="flex items-center space-x-3">
                 <Mail className="h-5 w-5 text-blue-400" />
                 <span className="text-gray-400">
-                  support@safewinglogistics.com
+                  support@safewingconsignments.com
                 </span>
               </div>
               <div className="flex items-center space-x-3">
@@ -132,7 +132,7 @@ const Footer: React.FC = () => {
 
         <div className="border-t border-gray-800 mt-8 pt-8 text-center">
           <p className="text-gray-400 text-sm">
-            © 2025 Safewing Logistics. All rights reserved. Privacy Policy
+            © 2025 Safewing Consignments. All rights reserved. Privacy Policy
             | Terms of Service
           </p>
         </div>

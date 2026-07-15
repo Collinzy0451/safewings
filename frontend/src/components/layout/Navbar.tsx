@@ -32,7 +32,7 @@ const Navbar = () => {
               <img className="h-14 w-13" src="/logo/logo2.png" alt="" />
               {/* <span className="hidden md:inline text-xl text-gray-900">
                 <span className="font-bold text-xl text-gray-900">SAFEWING</span>
-                <span className="font-bold text-xl text-red-500">LOGISTICS</span>
+                <span className="font-bold text-xl text-red-500">CONSIGNMENTS</span>
               </span> */}
 
             </Link>
